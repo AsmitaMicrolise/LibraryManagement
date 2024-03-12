@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagement.LibrarySystem">
+    <Position X="0.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAgAAAQAAAAACAAAAAAAAEgAAIAAAIEQCAAAIA=</HashCode>
+      <FileName>LibrarySystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Model.Librarian">
+    <Position X="3.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Librarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Model.Book">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAAAAAAEAEAAAAAAAAAAAAAAAQAABAAAAAAAA=</HashCode>
+      <FileName>Model\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Model.Author">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAACABAAAAAAAAAA=</HashCode>
+      <FileName>Model\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Model.FrontDeskOperator">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FrontDeskOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Model.Record">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEABAAAAQAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Model\Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Model.Student">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

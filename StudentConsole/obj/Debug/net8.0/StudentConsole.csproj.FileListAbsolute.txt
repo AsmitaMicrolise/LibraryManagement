@@ -1,0 +1,14 @@
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\bin\Debug\net8.0\StudentConsole.exe
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\bin\Debug\net8.0\StudentConsole.deps.json
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\bin\Debug\net8.0\StudentConsole.runtimeconfig.json
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\bin\Debug\net8.0\StudentConsole.dll
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\bin\Debug\net8.0\StudentConsole.pdb
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.AssemblyInfoInputs.cache
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.AssemblyInfo.cs
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.dll
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\refint\StudentConsole.dll
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.pdb
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\StudentConsole.genruntimeconfig.cache
+D:\Visual_Studio_ Practice\LibraryManagement\StudentConsole\obj\Debug\net8.0\ref\StudentConsole.dll

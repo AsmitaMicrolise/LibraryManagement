@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_Studio_ Practice\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\collector\\authordatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\collector\\authordatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\collector\\studentdatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\collector\\studentdatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\collector\\frontdeskoperatordatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\collector\\frontdeskoperatordatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\collector\\bookdatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\collector\\bookdatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D63A93-31F7-4956-8EEB-290FB704681E}|LibrarySystemTestProject\\LibrarySystemTestProject.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarysystemtestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D63A93-31F7-4956-8EEB-290FB704681E}|LibrarySystemTestProject\\LibrarySystemTestProject.csproj|solutionrelative:librarysystemtestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\actionexecutors\\studentactionexecutors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\actionexecutors\\studentactionexecutors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D63A93-31F7-4956-8EEB-290FB704681E}|LibrarySystemTestProject\\LibrarySystemTestProject.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarysystemtestproject\\frontdeskoperatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D63A93-31F7-4956-8EEB-290FB704681E}|LibrarySystemTestProject\\LibrarySystemTestProject.csproj|solutionrelative:librarysystemtestproject\\frontdeskoperatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D63A93-31F7-4956-8EEB-290FB704681E}|LibrarySystemTestProject\\LibrarySystemTestProject.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarysystemtestproject\\studentactiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D63A93-31F7-4956-8EEB-290FB704681E}|LibrarySystemTestProject\\LibrarySystemTestProject.csproj|solutionrelative:librarysystemtestproject\\studentactiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\actionexecutors\\frontdeskoperatoractionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\actionexecutors\\frontdeskoperatoractionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\action\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\action\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\testmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\testmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\action\\librarianlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\action\\librarianlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\action\\frontdeskoperatorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\action\\frontdeskoperatorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\actionexecutors\\librarianactionexecutors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\actionexecutors\\librarianactionexecutors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\model\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\model\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|d:\\visual_studio_ practice\\librarymanagement\\librarymanagement\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B622A7-DCAD-4B02-91E1-6E5F6952DCCB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "LibraryManagement\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ClassDiagram1.cd",
+              "RelativeToolTip": "LibraryManagement\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-11T13:32:53.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibrarySystemTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibrarySystemTestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibrarySystemTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "LibrarySystemTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:16:27.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDataCollector.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\BookDataCollector.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Collector\\BookDataCollector.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\BookDataCollector.cs",
+              "RelativeToolTip": "LibraryManagement\\Collector\\BookDataCollector.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T17:07:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDataCollector.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\StudentDataCollector.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Collector\\StudentDataCollector.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\StudentDataCollector.cs",
+              "RelativeToolTip": "LibraryManagement\\Collector\\StudentDataCollector.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:34:32.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrontDeskOperatorDataCollector.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\FrontDeskOperatorDataCollector.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Collector\\FrontDeskOperatorDataCollector.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\FrontDeskOperatorDataCollector.cs",
+              "RelativeToolTip": "LibraryManagement\\Collector\\FrontDeskOperatorDataCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:37:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorDataCollector.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\AuthorDataCollector.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Collector\\AuthorDataCollector.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Collector\\AuthorDataCollector.cs",
+              "RelativeToolTip": "LibraryManagement\\Collector\\AuthorDataCollector.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:50:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrontDeskOperatorTest.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibrarySystemTestProject\\FrontDeskOperatorTest.cs",
+              "RelativeDocumentMoniker": "LibrarySystemTestProject\\FrontDeskOperatorTest.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibrarySystemTestProject\\FrontDeskOperatorTest.cs",
+              "RelativeToolTip": "LibrarySystemTestProject\\FrontDeskOperatorTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:46:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentActionTest.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibrarySystemTestProject\\StudentActionTest.cs",
+              "RelativeDocumentMoniker": "LibrarySystemTestProject\\StudentActionTest.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibrarySystemTestProject\\StudentActionTest.cs",
+              "RelativeToolTip": "LibrarySystemTestProject\\StudentActionTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:55:40.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrontDeskOperatorActionExecutor.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ActionExecutors\\FrontDeskOperatorActionExecutor.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ActionExecutors\\FrontDeskOperatorActionExecutor.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ActionExecutors\\FrontDeskOperatorActionExecutor.cs",
+              "RelativeToolTip": "LibraryManagement\\ActionExecutors\\FrontDeskOperatorActionExecutor.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:36:39.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentActionExecutors.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ActionExecutors\\StudentActionExecutors.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ActionExecutors\\StudentActionExecutors.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ActionExecutors\\StudentActionExecutors.cs",
+              "RelativeToolTip": "LibraryManagement\\ActionExecutors\\StudentActionExecutors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:42:06.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibrarySystem.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\LibrarySystem.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibrarySystem.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\LibrarySystem.cs",
+              "RelativeToolTip": "LibraryManagement\\LibrarySystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:26:41.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\DatabaseConnection.cs",
+              "RelativeToolTip": "LibraryManagement\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:22:54.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentLogin.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Action\\StudentLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Action\\StudentLogin.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Action\\StudentLogin.cs",
+              "RelativeToolTip": "LibraryManagement\\Action\\StudentLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:23:41.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestMain.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\TestMain.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\TestMain.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\TestMain.cs",
+              "RelativeToolTip": "LibraryManagement\\TestMain.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:59:15.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibrarianLogin.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Action\\LibrarianLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Action\\LibrarianLogin.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Action\\LibrarianLogin.cs",
+              "RelativeToolTip": "LibraryManagement\\Action\\LibrarianLogin.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwD4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:30:39.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrontDeskOperatorLogin.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Action\\FrontDeskOperatorLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Action\\FrontDeskOperatorLogin.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Action\\FrontDeskOperatorLogin.cs",
+              "RelativeToolTip": "LibraryManagement\\Action\\FrontDeskOperatorLogin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:18:39.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibrarianActionExecutors.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ActionExecutors\\LibrarianActionExecutors.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ActionExecutors\\LibrarianActionExecutors.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\ActionExecutors\\LibrarianActionExecutors.cs",
+              "RelativeToolTip": "LibraryManagement\\ActionExecutors\\LibrarianActionExecutors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:08:37.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Student.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Student.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:33:24.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Librarian.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Librarian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:34:49.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Record.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Record.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Record.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Record.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Record.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:28:01.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Author.cs",
+              "ToolTip": "D:\\Visual_Studio_ Practice\\LibraryManagement\\LibraryManagement\\Model\\Author.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:57:37.666Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 812,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
